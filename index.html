@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "2089a7d1-20f0-4fd3-9355-91c4c0172248";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "2089a7d1-20f0-4fd3-9355-91c4c0172248";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,10 +855,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Background Image Layer -->
   <div class="index-hero-bg">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Beautifully manicured hands with soft blush-pink gel nails, photographed in bright natural studio light against a clean white marble surface. Bridal-inspired styling with delicate pearl accessories nearby. Editorial luxury nail photography, ultra-clean composition, soft bokeh background, premium nail salon aesthetic." width="1200" height="750" src="/assets/site-index-hero-image-1.webp" alt="ידיים עם מניקור ג׳ל מושלם בסטודיו Mayli nails">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Beautifully manicured hands with soft blush-pink gel nails, photographed in bright natural studio light against a clean white marble surface. Bridal-inspired styling with delicate pearl accessories nearby. Editorial luxury nail photography, ultra-clean composition, soft bokeh background, premium nail salon aesthetic." width="1200" height="750" src="/assets/site-index-hero-image-1.webp" alt="ידיים עם מניקור ג׳ל מושלם בסטודיו Mayli nails" data-hero-background="true" data-element-type="image" data-element-id="img-1779397192996-orvza0s1n">
   </div>
 
   <!-- Scrim Overlay -->
@@ -902,12 +902,12 @@
       </div>
 
       <!-- Overline Label -->
-      <span class="index-hero-overline">
-        <span class="index-hero-diamond" aria-hidden="true">◆</span>
+      <p class="zappy-editable"><span class="index-hero-overline" style="color: rgb(31, 31, 28) !important;">
+        <span class="index-hero-diamond" aria-hidden="true" style="color: rgb(31, 31, 28) !important;">◆</span>
         סטודיו ציפורניים פרמיום
       </span>
 
-      <!-- H1 Headline -->
+      </p><!-- H1 Headline -->
       <h1 class="index-hero-h1">מניקור ג׳ל מקצועי<br>בתל אביב</h1>
 
       <!-- H3 Subtitle -->
@@ -918,8 +918,8 @@
 
       <!-- CTA Buttons -->
       <div class="index-hero-ctas">
-        <a href="/contact" class="index-hero-btn-primary">לתיאום תור</a>
-        <a href="/services" class="index-hero-btn-secondary">השירותים שלנו</a>
+        <a href="/contact" class="index-hero-btn-primary btn btn-primary" style="color: rgb(255, 255, 255) !important; outline: medium; border-color: rgb(232, 183, 200) !important; background-color: rgb(232, 183, 200) !important; background-image: none !important;" data-element-type="button" data-element-id="btn-1779397192990-8fbtp6vep" data-native-element="true">לתיאום תור</a>
+        <a href="/services" class="index-hero-btn-secondary" style="color: rgb(31, 31, 28) !important; outline: medium;" data-element-type="button" data-element-id="btn-1779397192990-3pbcev93l" data-native-element="true">השירותים שלנו</a>
       </div>
 
     </div>
