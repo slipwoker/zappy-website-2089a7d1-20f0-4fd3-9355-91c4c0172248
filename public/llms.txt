@@ -1,0 +1,100 @@
+# Mayli nails — Generative Engine Optimization Map
+
+> תהנה אתר אז
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי את עולם הציפורניים המקצועי של Mayli nails בתל אביב. מניקור ג&#39;ל מקצועי בתל אביב שמשנה את המראה שלך לחלוטין. הזמיני תור עוד היום!
+
+### שירותים
+https://example.com/services
+מניקור ג&#39;ל מקצועי בתל אביב, פדיקור, עיצוב ציפורניים ועוד — כל השירותים של Mayli nails במקום אחד. איכות ללא פשרות עם תוצאות שמדברות בעד עצמן. גלי עכשיו!
+
+### אודות
+https://example.com/about
+Mayli nails נולדה מאהבה אמיתית לאמנות הציפורניים. גלי מי אנחנו, מה מניע אותנו ולמה אלפי לקוחות בתל אביב בוחרות בנו למניקור ג&#39;ל מקצועי שלא מתפשר על שום דבר.
+
+### צור קשר
+https://example.com/contact
+רוצה מניקור ג&#39;ל מקצועי בתל אביב שיגרום לך להרגיש מלכה? צרי קשר עם Mayli nails עכשיו, הזמיני תור ותני לנו להפוך את הציפורניים שלך ליצירת אמנות אמיתית!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Mayli nails
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Mayli nails
+
+### Category
+https://example.com/category/:slug
+מוצרים - Mayli nails
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Mayli nails
+תהנה אתר אז
+
+## Target Audience
+- אוהבות אופנה צעירות
+- נשים מקצועיות
+- קהילת כלות
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
